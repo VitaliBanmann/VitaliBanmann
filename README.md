@@ -1,4 +1,4 @@
-<h2 align="center">Hi! My name is Vitali, I'm from NRW, Germany, and currently learning to code. I'm looking for a job where I can support your team and continue to grow my skills.</h2>
+<h2 align="center">Hi! My name is Vitali, I'm from NRW, Germany, currently learning to code. I'm looking for a job where I can support your team and continue to grow my skills.</h2>
 
 ###
 
