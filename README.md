@@ -1,13 +1,13 @@
 ﻿<h2 align="center">
-Hi! I'm Vitali from NRW, Germany 👋<br/>
-Frontend Developer focused on Angular, TypeScript and Firebase.<br/>
-I build responsive web apps and I’m open to junior opportunities where I can contribute and keep growing.
+Hi! Ich bin Vitali aus NRW, Deutschland 👋<br/>
+Frontend-Entwickler mit Fokus auf Angular, TypeScript und Firebase.<br/>
+Ich entwickle responsive Web-Apps und bin offen für Junior-Stellen, in denen ich Mehrwert liefern und mich weiterentwickeln kann.
 </h2>
 
 ###
 
 <div align="center">
-  <h3>Core Stack</h3>
+  <h3>Kern-Stack</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="32" alt="angular logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript logo" />
@@ -40,7 +40,7 @@ I build responsive web apps and I’m open to junior opportunities where I can c
 
 ###
 
-### Featured Projects
+### Ausgewaehlte Projekte
 
 - Join Projektmanagement  
   https://github.com/VitaliBanmann/Join-Projektmanagment
@@ -65,3 +65,4 @@ https://vitali-banmann.de/
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/VitaliBanmann/VitaliBanmann/output/snake.svg" alt="Snake animation" />
+
