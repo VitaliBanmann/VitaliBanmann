@@ -1,7 +1,6 @@
 ﻿<h2 align="center">
 Hi! Ich bin Vitali aus NRW, Deutschland 👋<br/>
-Entwickler mit Fokus auf Angular, TypeScript und Firebase.<br/>
-Ich entwickle responsive Web-Apps und bin offen für Junior-Stellen, in denen ich Mehrwert liefern und mich weiterentwickeln kann.
+Ich entwickle Front-/Backend und bin offen für Junior-Stellen, in denen ich Mehrwert liefern und mich weiterentwickeln kann.
 </h2>
 
 ###
